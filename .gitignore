@@ -1,2 +1,7 @@
 out/
 *.log
+
+# Editor backup and swap files
+*.swp
+*.swo
+*~
